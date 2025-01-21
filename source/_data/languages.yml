@@ -17,3 +17,5 @@ zh-CN:
       zero: 暂无作品。
       one: 共计 1 个作品。
       other: "共计 %d 个作品。"
+  post:
+    read_more: 查看原图
